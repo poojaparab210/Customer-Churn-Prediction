@@ -1,0 +1,15 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Large model not used by the Streamlit app
+outputs/models/churn_model.pkl
+
+# Local backup
+app_backup.py
