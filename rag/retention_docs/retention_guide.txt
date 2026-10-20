@@ -1,0 +1,36 @@
+
+CUSTOMER RETENTION GUIDE
+
+1. Month-to-month contracts
+When a customer has a high churn risk score and a month-to-month contract,
+investigate their concerns about pricing, service quality, or contract flexibility.
+Explain available contract options transparently. Never pressure a customer
+into a longer contract.
+
+2. Short customer tenure
+Customers who recently joined may benefit from onboarding guidance, help
+understanding their plan, and proactive support. Ask whether they have unresolved
+setup, service, or billing questions.
+
+3. Technical support
+If a customer reports technical problems, offer troubleshooting or explain
+available support options. Do not assume that a customer is dissatisfied
+simply because they do not subscribe to a support service.
+
+4. Billing concerns
+Review bills when customers report unexpected charges. Explain fees clearly
+and discuss available payment methods when relevant. Never promise a refund
+or discount without authorization.
+
+5. Customer feedback
+Ask customers about their main concern before recommending a retention action.
+Record the concern, the action offered, and the outcome.
+
+6. Responsible churn prediction
+A churn model estimates risk; it cannot establish why a customer might leave.
+Use predictions to prioritize review rather than as proof. Protect customer
+information and avoid discriminatory treatment.
+
+7. Measuring retention
+Track retention, accepted offers, complaints, and customer satisfaction.
+Do not claim that a retention action works unless evaluation data supports it.

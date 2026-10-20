@@ -13,3 +13,6 @@ outputs/models/churn_model.pkl
 
 # Local backup
 app_backup.py
+
+# Generated RAG vector database
+outputs/chroma_db/
