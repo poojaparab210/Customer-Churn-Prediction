@@ -1,0 +1,18 @@
+Customer Retention Copilot - Initial RAG Evaluation
+
+1. General retention question
+Result: Pass
+Observation: Retrieved relevant retention guidance.
+
+2. Month-to-month customer at high churn risk
+Result: Pass
+Observation: Retrieved the matching contract guidance and returned a relevant answer.
+
+3. Unsupported discount-policy question
+Result: Partial pass
+Observation: Did not invent a discount percentage, but should explicitly state that the policy is unavailable.
+
+Limitations:
+- Manual evaluation with a small number of test questions.
+- Retrieval may return relevant-looking text that does not fully answer a question.
+- Additional testing is needed before claiming production readiness.
